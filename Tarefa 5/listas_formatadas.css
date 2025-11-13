@@ -1,0 +1,12 @@
+.ajustar-tamanho {width: 40px; height: auto;}
+.emoji {font-size: 30px;}
+.romano {list-style-type: upper-roman;}
+.capa {width: 300px; height: auto; float: left; margin-right: 15px;}
+
+body {font-family: monospace; font-size: 16px; background-image: linear-gradient(to right, #00bfff, #0040ff);}
+h1 {font-family: fantasy; letter-spacing: .5rem; color: lightblue; background-color: #0040ff;}
+p {text-align: center;}
+
+li, dd, dt {font-size: 17px;}
+ol, ul {list-style-position: inside;}
+dl {margin-left: 40px;}

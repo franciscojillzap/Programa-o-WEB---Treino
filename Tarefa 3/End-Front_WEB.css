@@ -1,0 +1,14 @@
+body {font-family: arial; font-size: 1rem; background-image: linear-gradient(to left, #b3cce2, #D9CCC1);}
+h1 {font-size: 3rem; letter-spacing: 3rem; text-align: center; color: #D9CCC1; background-color: #005eb0;}
+h2 {font-size: 1.5rem; color: #D9CCC1; background-color: #005eb0;}
+p {font-size: 1rem; color: #024059;}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+.motivacional {font-family: "Tilt Neon", sans-serif; text-align: justify;}
+
+.autor {text-align: right; font-style: italic; color: darkslategray;}
+
+.data {font-size: .8rem; text-align: left; font-style: italic; color: darkslategray;}
+
+.taldobrown {font-family: "Tilt Neon", sans-serif; text-align: justify; font-style: italic; color: black;}
