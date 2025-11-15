@@ -1,1 +1,6 @@
 .ajustar {width: 100px; height: auto; display: inline;}
+.capa {width: 800px; height: auto;}
+.fonte {font-size: 18px;}
+
+a:link, a:visited {text-decoration: none; color: red;}
+a:hover, a:active {text-decoration: none; color: white; background-color: red;}
