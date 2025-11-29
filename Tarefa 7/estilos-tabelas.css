@@ -1,0 +1,16 @@
+.livro {border-collapse: collapse; width: 600px;}
+table {border-collapse: collapse;}
+
+td, th {border: 1px solid black;}
+#tabela-livro th {height: 30px;}
+#tabela-livro td {height: 20px;}
+
+.livro tr:nth-child(odd) {background-color: lightblue;}
+.livro tr:nth-child(even) {background-color: lightgreen;}
+
+.tabuleiro {width: 400px; height: 400px; background-color: white;}
+.tabuleiro tr:nth-child(even) td:nth-child(odd) {background-color: darkslategray;}
+.tabuleiro tr:nth-child(odd) td:nth-child(even) {background-color: darkslategray;}
+
+.pracula {text-align: right;}
+.procentro {text-align: center;}
